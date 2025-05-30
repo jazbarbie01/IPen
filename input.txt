@@ -1,0 +1,7 @@
+open
+write Hello, Pen!
+close
+write This should not appear
+open
+write Testing again
+exit
