@@ -1,0 +1,15 @@
+/app/bin/Debug/net8.0/PenSimulation
+/app/bin/Debug/net8.0/PenSimulation.deps.json
+/app/bin/Debug/net8.0/PenSimulation.runtimeconfig.json
+/app/bin/Debug/net8.0/PenSimulation.dll
+/app/bin/Debug/net8.0/PenSimulation.pdb
+/app/obj/Debug/net8.0/PenSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/app/obj/Debug/net8.0/PenSimulation.AssemblyInfoInputs.cache
+/app/obj/Debug/net8.0/PenSimulation.AssemblyInfo.cs
+/app/obj/Debug/net8.0/PenSimulation.csproj.CoreCompileInputs.cache
+/app/obj/Debug/net8.0/PenSimulation.sourcelink.json
+/app/obj/Debug/net8.0/PenSimulation.dll
+/app/obj/Debug/net8.0/refint/PenSimulation.dll
+/app/obj/Debug/net8.0/PenSimulation.pdb
+/app/obj/Debug/net8.0/PenSimulation.genruntimeconfig.cache
+/app/obj/Debug/net8.0/ref/PenSimulation.dll
